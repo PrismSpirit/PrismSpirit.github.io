@@ -103,17 +103,17 @@ analytics:
 # Site Author
 author:
   name             : "Jaehun Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Hanyang Univ. Division of Computer Science"
-  location         : "Somewhere"
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yeolkeut@gmail.com"
+      url: "mailto:yeolkeut@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://Prism.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
