@@ -1,4 +1,12 @@
-# 앱 구동 중 Privacy Settings 가 변경되는 경우에 대한 처리?
+---
+title: "앱 구동 중 권한이 변경되는 경우에 대한 대응 방법"
+toc: true
+toc_sticky: true
+categories:
+  - iOS
+  - Swift
+---
+# 앱 구동 중 Privacy Settings가 변경되는 경우에 대한 처리?
 
 ## 문제 상황
 
